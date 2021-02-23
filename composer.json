@@ -1,5 +1,5 @@
 {
-    "name": "mangopop/jwt-verifier",
+    "name": "mangopop/jwt-verifier-sym28",
     "description": "A verifier library for working with Okta JWT's downgraded for use with symfony 2.8",
     "type": "library",
     "license": "Apache-2.0",
