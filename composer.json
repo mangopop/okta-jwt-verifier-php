@@ -1,6 +1,6 @@
 {
-    "name": "okta/jwt-verifier",
-    "description": "A verifier library for working with Okta JWT's",
+    "name": "mangopop/jwt-verifier",
+    "description": "A verifier library for working with Okta JWT's downgraded for use with symfony 2.8",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
